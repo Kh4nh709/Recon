@@ -188,7 +188,18 @@ cat result_uro.txt | httpx -mc 200 -title > result_httpx.txt
 [https://drive.google.com/file/d/1bJa2C6GFVDXVlYhYVa1RNfmr8ajP_cRs/view?usp=drive_link](https://drive.google.com/file/d/1bJa2C6GFVDXVlYhYVa1RNfmr8ajP_cRs/view?usp=drive_link)
 
 ```
-gau https://www.hertz.com/ | uro | httpx -mc 200 -title -tech-detect -status-code > result_wayback_history.txt
+#gau
+gau https://www.hertz.com --threads 20 --from 202201 > result_recon/5_Wayback_History/gau.txt
+#uro
+cat result_recon/5_Wayback_History/gau.txt | uro -f hasparams > result_recon/5_Wayback_History/uro_parameter.txt
+cat result_recon/5_Wayback_History/gau.txt | uro -f noparams > result_recon/5_Wayback_History/uro_url.txt
+cat result_recon/5_Wayback_History/gau.txt | uro -f hasext > result_recon/5_Wayback_History/uro_extension.txt
+cat result_recon/5_Wayback_History/gau.txt | uro -f hasext | grep -iE "\.js($|[?/#;])" > result_recon/5_Wayback_History/uro_extension_js.txt
+#httpx
+httpx -l result_recon/5_Wayback_History/uro_url.txt -silent -o result_recon/5_Wayback_History/httpx.txt
+httpx -l result_recon/5_Wayback_History/uro_extension_js.txt -silent -o result_recon/5_Wayback_History/httpx_js.txt
+httpx -l result_recon/5_Wayback_History/uro_parameter.txt -silent -o result_recon/5_Wayback_History/httpx_parameter.txt
+
 ```
 
 # 6_Crawler
