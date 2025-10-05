@@ -38,7 +38,7 @@ Maps: Leaflet
 Programming languages: Java
 
 ```
-![image.png](image.png)
+![image.png](https://github.com/Kh4nh709/Recon/blob/main/image.png)
 
 ![image.png](image%201.png)
 
