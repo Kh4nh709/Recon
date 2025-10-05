@@ -1,0 +1,12 @@
+# Dirsearch started Sun Oct  5 21:26:02 2025 as: /home/khanh/.local/bin/dirsearch -u https://www.hertz.com/ -e jsp,html,txt,php -w /snap/seclists/current/Discovery/Web-Content/raft-small-directories.txt -x 404,403,400,301 -r -t 100 -o /check_tool/result_recon/4_Directory_Enumeration/dirsearch_output.txt
+
+302     0B   https://www.hertz.com/shop    -> REDIRECTS TO: https://www.hertzcarsales.com/?utm_campaign=In-Location&utm_id=In-Location&utm_medium=Rtl-Jacket&utm_source=POS
+302   109B   https://www.hertz.com/login    -> REDIRECTS TO: https://www.hertz.com/rentacar/member/login?iss=https%3A%2F%2Fhertz-dev.us.auth0.com%2F
+302   109B   https://www.hertz.com/Login    -> REDIRECTS TO: https://www.hertz.com/rentacar/member/login?iss=https%3A%2F%2Fhertz-dev.us.auth0.com%2F
+302     0B   https://www.hertz.com/terms    -> REDIRECTS TO: https://hertz.ltschat.com/terms-conditions/
+302     0B   https://www.hertz.com/Shop    -> REDIRECTS TO: https://www.hertzcarsales.com/?utm_campaign=In-Location&utm_id=In-Location&utm_medium=Rtl-Jacket&utm_source=POS
+302     0B   https://www.hertz.com/enroll    -> REDIRECTS TO: https://www.hertz.com/us/en/enrollment
+302     0B   https://www.hertz.com/Terms    -> REDIRECTS TO: https://hertz.ltschat.com/terms-conditions/
+302    11KB  https://www.hertz.com/tmobile    -> REDIRECTS TO: https://www.hertz.com/rentacar/rental-car-deals/tmobile-offer
+302   109B   https://www.hertz.com/LOGIN    -> REDIRECTS TO: https://www.hertz.com/rentacar/member/login?iss=https%3A%2F%2Fhertz-dev.us.auth0.com%2F
+302     0B   https://www.hertz.com/booknow    -> REDIRECTS TO: https://www.hertz.com/us/en/deals-and-offers/save-up-on-your-next-road-trip?

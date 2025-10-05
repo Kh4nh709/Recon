@@ -1,0 +1,57 @@
+=== DORK: [ ! ] Version: 5.048 (latest) ===
+=== DORK: [ ! ] Get information about:   hertz.com ===
+=== DORK: [ * ] Checking Login Page: ===
+=== DORK: [ > ] Checking ADMIN [ Google query: site:hertz.com inurl:admin ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking LOGIN [ Google query: site:hertz.com inurl:login ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking ADMINLOGIN [ Google query: site:hertz.com inurl:adminlogin ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking CPLOGIN [ Google query: site:hertz.com inurl:cplogin ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking WEBLOGIN [ Google query: site:hertz.com inurl:weblogin ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking QUICKLOGIN [ Google query: site:hertz.com inurl:quicklogin ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking WP-ADMIN [ Google query: site:hertz.com inurl:wp-admin ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking WP-LOGIN [ Google query: site:hertz.com inurl:wp-login ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking PORTAL [ Google query: site:hertz.com inurl:portal ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking USERPORTAL [ Google query: site:hertz.com inurl:userportal ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking LOGINPANEL [ Google query: site:hertz.com inurl:loginpanel ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking REMOTE [ Google query: site:hertz.com inurl:remote ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking DASHBOARD [ Google query: site:hertz.com inurl:dashboard ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking AUTH [ Google query: site:hertz.com inurl:auth ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking EXCHANGE [ Google query: site:hertz.com inurl:exchange ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking FORGOTPASSWORD [ Google query: site:hertz.com inurl:ForgotPassword ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking TEST [ Google query: site:hertz.com inurl:test ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking .GIT [ Google query: site:hertz.com inurl:.git ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking BACKUP [ Google query: site:hertz.com inurl:backup ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: _ ===
+=== DORK: [ * ] Checking specific files: ===
+=== DORK: [ > ] Checking DOC [ Google query: site:hertz.com filetype:doc ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking DOT [ Google query: site:hertz.com filetype:dot ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking DOCM [ Google query: site:hertz.com filetype:docm ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking DOCX [ Google query: site:hertz.com filetype:docx ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking DOTX [ Google query: site:hertz.com filetype:dotx ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking XLS [ Google query: site:hertz.com filetype:xls ] ===
+=== DORK: 	[ - ] No results ===
+=== DORK: [ > ] Checking XLSM [ Google query: site:hertz.com filetype:xlsm ][*] Formatting Google Dork results... ===
+=== DORK: [*] Formatting Google Dork results... ===
